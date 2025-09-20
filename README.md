@@ -68,6 +68,10 @@ This project was developed with assistance from AI tools:
 - **Error handling**: Proper error states and fallbacks for failed requests
 - **Timeout configuration**: 10-second timeout to prevent hanging requests
 
+## 🚀 Live Demo
+
+**Production URL:** https://sporty-group-assignment-dv818uz4v-ganesh-hegdes-projects.vercel.app
+
 ## Getting Started
 
 ### Prerequisites
