@@ -2,6 +2,10 @@
 
 A React-based Single Page Application that displays sports leagues with filtering capabilities and season badge integration.
 
+## 🚀 Live Demo
+
+**Production URL:** https://sporty-group-assignment-three.vercel.app/
+
 ## Features
 
 - **League Display**: Shows sports leagues with name, sport type, and alternate names
@@ -67,10 +71,6 @@ This project was developed with assistance from AI tools:
 - **TheSportsDB API**: Free sports data API with comprehensive league information
 - **Error handling**: Proper error states and fallbacks for failed requests
 - **Timeout configuration**: 10-second timeout to prevent hanging requests
-
-## 🚀 Live Demo
-
-**Production URL:** https://sporty-group-assignment-dv818uz4v-ganesh-hegdes-projects.vercel.app
 
 ## Getting Started
 
